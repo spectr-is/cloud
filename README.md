@@ -13,6 +13,10 @@
 > Cloud 2 is a major update with many significant changes. Cloud 2 is _not_ compatible with version 1.
 > You can find the changelog [here](https://cloud.incendo.org/cloud-v2/).
 
+## This Fork
+This is a quick fork of Incendo's cloud repository that just merges some of my own PRs because cloud takes a *while*.\
+Everything is published at https://repo.spectr.is/ (Snapshots only for now)
+
 Cloud is a general-purpose Java command dispatcher &amp; framework. It allows programmers to define command chains that are then parsed and invoked from user-supplied string inputs, to execute pre-defined actions.
 
 Cloud commands consist out of deterministic chains of strongly typed arguments. When you define a command,
