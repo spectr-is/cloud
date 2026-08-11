@@ -221,6 +221,9 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+### Kotlin ###
+.kotlin/
+
 # End of https://www.toptal.com/developers/gitignore/api/git,java,eclipse,jetbrains+all,gradle
 
 # MacOS
